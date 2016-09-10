@@ -14,3 +14,5 @@ And it's also much easier to write for authors who are still struggling in latex
 So why sticking to this damn PDF format !?!
 It's more than time to switch to markdown no: there are great tools to cnovert to any other format (see pandoc), to support fast
 and nice equations (see katex), support for bibtex and support for integration in books (see gitbook).
+
+Also see: https://github.com/dgraziotin/acm_sig_paper_markdown_pandoc
